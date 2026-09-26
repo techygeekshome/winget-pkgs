@@ -17,7 +17,9 @@ Description: >-
   CutGeek removes the background from a photo on your own machine and hands it back at the original
   resolution as a transparent PNG. The free web services downsize the result, watermark it, or keep
   the full-size version behind a subscription; this one does none of those. It can work through a
-  folder of images in one run and needs no internet connection once installed.
+  folder of images in one run. Images are processed locally and never uploaded. An internet
+  connection is only used to download a model when you ask for one, or when you click Check for
+  updates.
 Moniker: cutgeek
 Tags:
 - background-removal
